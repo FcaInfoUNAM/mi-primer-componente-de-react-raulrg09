@@ -1,0 +1,5 @@
+¿De dónde sale la etiqueta <Navigation/>? Del componente "Navigation.jsx" ubicado dentro de "src".
+
+¿Cómo se recibieron los parámetros de la función Navigation()? El primer parámetro "srcImg" se recibió como una variable "logo", que hace referencia al archivo en la ruta "./assets/react.svg". El segundo parámetro "alt" se recibió como una cadena hardcodeada: "Logo".
+
+¿Dónde se importan los archivos .css, las imágenes y cómo es que se importa un componente? Los .css se importan directamente en "App", las imágenes se importan en módulos y los componentes se importan con la sintaxis "import { Componente } from './Componente'"
